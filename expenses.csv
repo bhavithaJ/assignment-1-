@@ -1,0 +1,5 @@
+id,date,city,country_code,currency,amount
+1,2025-09-10,Berlin,DE,EUR,89.90
+2,2025-09-11,New York,US,USD,120.50
+3,2025-09-12,Tokyo,JP,JPY,15000
+4,2025-09-12,San Francisco,US,USD,42.00
